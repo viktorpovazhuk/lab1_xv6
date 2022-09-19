@@ -1,6 +1,8 @@
-Lab work 1: Compilation and usage of xv6<br>
+# Lab work 1: Compilation and usage of xv6
+
 Authors (team): [Viktor Povazhuk](https://github.com/viktorpovazhuk)<br>
 Variant: 0
+
 ## Prerequisites
 
 Tools:
