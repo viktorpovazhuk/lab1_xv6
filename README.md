@@ -3,7 +3,7 @@
 Authors (team): [Viktor Povazhuk](https://github.com/viktorpovazhuk)<br>
 Variant: 0
 
-## Prerequisites
+### Prerequisites
 
 Tools:
 * gcc
@@ -20,14 +20,16 @@ $ make qemu
 
 ### Usage
 
-In xv6 console run:
+To run hello program, in xv6 console:
 ```
 $ myhello
 ```
 
+Video usage of xv6: [Video](https://youtu.be/QLOFg0fzUZA).
+
 ### Important!
 
-Nothing.
+Name of source file of my program: myhello.c.
 
 ### Results
 
